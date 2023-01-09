@@ -1,6 +1,6 @@
 Source for Clean New Tab extension, awaiting approval on the Chrome Store. Built with React, Bootstrap and P5.js, with IndexedDB and browser local storage for persistent data.
 
-![alt text]([http://url/to/img.png](https://live.staticflickr.com/65535/52618475300_500300eebf_k.jpg))
+![alt text](https://live.staticflickr.com/65535/52618475300_500300eebf_k.jpg)
 
 ## Available Scripts
 
