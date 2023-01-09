@@ -1,4 +1,4 @@
-Source for Clean New Tab extension, awaiting approval on the Chrome Store.
+Source for Clean New Tab extension, awaiting approval on the Chrome Store. Built with React, Bootstrap and P5.js, with IndexedDB and browser local storage for persistent data.
 
 ## Available Scripts
 
