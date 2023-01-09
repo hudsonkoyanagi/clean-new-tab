@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Source for Clean New Tab extension, awaiting approval on the Chrome Store.
 
 ## Available Scripts
 
