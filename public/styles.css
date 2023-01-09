@@ -1,0 +1,15 @@
+*{
+    font-family: 'Courier New', monospace;
+}
+html, body {
+    margin: 0px; 
+    height: 100%; 
+    overflow: hidden
+}
+
+.bigDiv{
+    width: 100vh;
+    height: 100vw;
+    margin:0;
+    padding:0;
+}
