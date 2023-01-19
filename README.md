@@ -1,4 +1,4 @@
-Source for Clean New Tab extension, awaiting approval on the Chrome Store. Built with React, Bootstrap and P5.js, with IndexedDB and browser local storage for persistent data.
+Source for Clean New Tab extension, check it out at: https://chrome.google.com/webstore/detail/clean-new-tab-replacement/bjdlmkabhaigklnagocnmjmphepioaik/related?hl=en&authuser=0. Built with React, Bootstrap and P5.js, with IndexedDB and browser local storage for persistent data.
 
 ![alt text](https://live.staticflickr.com/65535/52618475300_500300eebf_k.jpg)
 
